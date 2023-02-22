@@ -36,7 +36,7 @@ ChatGPT是由人工智能实验室OpenAI发布的对话式大型语言模型Chat
 商人；
 获取平台折扣的人；
 需要创建第二个抖音、Instagram、WhatsApp、Telegram、淘宝、支付宝等账号的人；
-![image](​https://github.com/FarmerChina/register_chatgpt/raw/main/img/phone_message.jpg​​)
+![image](https://github.com/FarmerChina/register_chatgpt/blob/fb4f8a0fde7daf00c74a9d03860cda2677fc4a43/img/phone_message.jpg​​)
 
 ## 【请复制至微信中打开链接，我们暂时只支持在微信中进行微信支付】 ##
 咨询下单地址：https://wp.huinong.co/index.php/product/%e6%8e%a5%e6%94%b6open-ai-%e5%92%8c-chatgpt%e6%b3%a8%e5%86%8c%e9%aa%8c%e8%af%81%e7%a0%81/
@@ -44,4 +44,4 @@ ChatGPT是由人工智能实验室OpenAI发布的对话式大型语言模型Chat
 
 
 ### 「下单后一定要备注微信号 或者 主动添加 客服微信」 ###
-![image](​https://github.com/FarmerChina/register_chatgpt/raw/main/img/wechat.jpg​​)
+![Alt text](​https://github.com/FarmerChina/register_chatgpt/raw/main/img/wechat.jpg​​)
