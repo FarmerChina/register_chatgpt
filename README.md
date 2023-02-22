@@ -15,7 +15,7 @@ ChatGPT是由人工智能实验室OpenAI发布的对话式大型语言模型Chat
 
 ## 【请复制至微信中打开链接，我们暂时只支持在微信中进行微信支付】 ##
 咨询下单地址：https://wp.huinong.co/index.php/product/open-ai-chatgpt-%e4%bb%a3%e6%b3%a8%e5%86%8c-%e8%b4%9f%e8%b4%a3%e6%b3%a8%e5%86%8c%e8%b4%a6%e5%8f%b7-%e5%8f%aa%e9%9c%80%e8%a6%81%e6%8f%90%e4%be%9b%e4%b8%80%e4%b8%aa%e5%9b%bd%e9%99%85%e9%80%9a%e7%94%a8/
-![image](​https://github.com/FarmerChina/register_chatgpt/raw/main/img/qr-chat.png?raw=true)
+![image](​https://github.com/FarmerChina/register_chatgpt/blob/main/img/qr-chat.png?raw=true)
 
 
 
@@ -40,8 +40,8 @@ ChatGPT是由人工智能实验室OpenAI发布的对话式大型语言模型Chat
 
 ## 【请复制至微信中打开链接，我们暂时只支持在微信中进行微信支付】 ##
 咨询下单地址：https://wp.huinong.co/index.php/product/%e6%8e%a5%e6%94%b6open-ai-%e5%92%8c-chatgpt%e6%b3%a8%e5%86%8c%e9%aa%8c%e8%af%81%e7%a0%81/
-![image](​https://github.com/FarmerChina/register_chatgpt/raw/main/img/qr-msg.png​​?raw=true)
+![image](​https://github.com/FarmerChina/register_chatgpt/blob/main/img/qr-msg.png​​?raw=true)
 
 
 ### 「下单后一定要备注微信号 或者 主动添加 客服微信」 ###
-![image](​https://github.com/FarmerChina/register_chatgpt/raw/main/img/wechat.jpg​?raw=true​)
+![image](​https://github.com/FarmerChina/register_chatgpt/blob/main/img/wechat.jpg​?raw=true​)
