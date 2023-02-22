@@ -12,9 +12,11 @@ ChatGPT 代注册
 ChatGPT是由人工智能实验室OpenAI发布的对话式大型语言模型ChatGPT在各大中外媒体平台掀起了一阵狂热之风。短短4天时间，其用户量到达百万级，注册用户之多导致服务器一度爆满。
 
 继 AI 绘画之后，由 OpenAI 上线的 ChatGPT 成了新的流量收割机，也引发了网友的一系列“花式整活”。ChatGPT的功能是如此强大，以此连马斯克都认为“我们离强大到危险的 AI 不远了”。
+![image](​https://github.com/FarmerChina/register_chatgpt/img/chatgpt_reg.jpg​)
 
-## 请复制至微信中打开链接，我们暂时只支持在微信中进行微信支付 ##
+## 【请复制至微信中打开链接，我们暂时只支持在微信中进行微信支付】 ##
 咨询下单地址：https://wp.huinong.co/index.php/product/open-ai-chatgpt-%e4%bb%a3%e6%b3%a8%e5%86%8c-%e8%b4%9f%e8%b4%a3%e6%b3%a8%e5%86%8c%e8%b4%a6%e5%8f%b7-%e5%8f%aa%e9%9c%80%e8%a6%81%e6%8f%90%e4%be%9b%e4%b8%80%e4%b8%aa%e5%9b%bd%e9%99%85%e9%80%9a%e7%94%a8/
+![image](​https://github.com/FarmerChina/register_chatgpt/img/qr-chat.png)
 
 
 
@@ -35,9 +37,12 @@ ChatGPT是由人工智能实验室OpenAI发布的对话式大型语言模型Chat
 商人；
 获取平台折扣的人；
 需要创建第二个抖音、Instagram、WhatsApp、Telegram、淘宝、支付宝等账号的人；
+![image](​https://github.com/FarmerChina/register_chatgpt/img/phone_message.jpg​​)
 
-## 请复制至微信中打开链接，我们暂时只支持在微信中进行微信支付 ##
+## 【请复制至微信中打开链接，我们暂时只支持在微信中进行微信支付】 ##
 咨询下单地址：https://wp.huinong.co/index.php/product/%e6%8e%a5%e6%94%b6open-ai-%e5%92%8c-chatgpt%e6%b3%a8%e5%86%8c%e9%aa%8c%e8%af%81%e7%a0%81/
+![image](​https://github.com/FarmerChina/register_chatgpt/img/qr-msg.png​​)
 
 
-
+### 「下单后一定要备注微信号 或者 主动添加 客服微信」 ###
+![image](​https://github.com/FarmerChina/register_chatgpt/img/wechat.jpg​​)
