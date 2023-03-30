@@ -15,10 +15,10 @@ ChatGPT是由人工智能实验室OpenAI发布的对话式大型语言模型Chat
 ![image](https://github.com/FarmerChina/register_chatgpt/blob/main/img/chatgpt_reg.jpg?raw=true)
 
 ## 【请复制至微信中打开链接，我们暂时只支持在微信中进行微信支付】 ##
-咨询下单地址：https://wp.huinong.co/index.php/product/open-ai-chatgpt-%e4%bb%a3%e6%b3%a8%e5%86%8c-%e8%b4%9f%e8%b4%a3%e6%b3%a8%e5%86%8c%e8%b4%a6%e5%8f%b7-%e5%8f%aa%e9%9c%80%e8%a6%81%e6%8f%90%e4%be%9b%e4%b8%80%e4%b8%aa%e5%9b%bd%e9%99%85%e9%80%9a%e7%94%a8/
 
-![image](https://github.com/FarmerChina/register_chatgpt/blob/main/img/qr-chat.png?raw=true)
-
+<a href="https://wp.huinong.co/index.php/product/open-ai-chatgpt-%e4%bb%a3%e6%b3%a8%e5%86%8c-%e8%b4%9f%e8%b4%a3%e6%b3%a8%e5%86%8c%e8%b4%a6%e5%8f%b7-%e5%8f%aa%e9%9c%80%e8%a6%81%e6%8f%90%e4%be%9b%e4%b8%80%e4%b8%aa%e5%9b%bd%e9%99%85%e9%80%9a%e7%94%a8/">---点击我咨询下单 或者手机扫描下面二维码进入---</a>  
+ 
+<img src="https://github.com/FarmerChina/register_chatgpt/blob/main/img/qr-chat.png?raw=true" width="300px" height="300px">
 
 
 ### 接收Open AI 和 ChatGPT注册验证码 但不仅限于这两个平台-任何需要接码的都可以用 ###
@@ -39,14 +39,15 @@ ChatGPT是由人工智能实验室OpenAI发布的对话式大型语言模型Chat
 获取平台折扣的人；
 需要创建第二个抖音、Instagram、WhatsApp、Telegram、淘宝、支付宝等账号的人；
 
-![image](https://github.com/FarmerChina/register_chatgpt/blob/main/img/phone_message.jpg?raw=true)
+ <img src="https://github.com/FarmerChina/register_chatgpt/blob/main/img/phone_message.jpg?raw=true" width="400px" height="800px">
+
 
 ## 【请复制至微信中打开链接，我们暂时只支持在微信中进行微信支付】 ##
-咨询下单地址：https://wp.huinong.co/index.php/product/%e6%8e%a5%e6%94%b6open-ai-%e5%92%8c-chatgpt%e6%b3%a8%e5%86%8c%e9%aa%8c%e8%af%81%e7%a0%81/
-
-![image](https://github.com/FarmerChina/register_chatgpt/blob/main/img/qr-msg.png?raw=true)
+<a href="https://wp.huinong.co/index.php/product/%e6%8e%a5%e6%94%b6open-ai-%e5%92%8c-chatgpt%e6%b3%a8%e5%86%8c%e9%aa%8c%e8%af%81%e7%a0%81/">---点击我咨询下单  或者手机扫描下面二维码进入---</a> 
+ 
+<img src="https://github.com/FarmerChina/register_chatgpt/blob/main/img/qr-msg.png?raw=true" width="300px" height="300px">
 
 
 ### 「下单后一定要备注微信号 或者 主动添加 客服微信」 ###
 
-![image](https://github.com/FarmerChina/register_chatgpt/blob/main/img/wechat.jpg?raw=true)
+<img src="https://github.com/FarmerChina/register_chatgpt/blob/main/img/wechat.jpg?raw=true" width="300px" height="300px">
