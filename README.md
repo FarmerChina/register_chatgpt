@@ -1,3 +1,53 @@
+# Free_ChatGPT_APIKEY
+### Free_ChatGPT_APIKEY Supper  ChatGPT3.5/4.0 免费ChatGPT APIKEY 中转 支持ChatGPT3.5和4.0
+
+### 稳定：此中转服务用于维持开源软件的正常更新和维护，我应该不会轻易跑路，毕竟这玩意儿也赚不了几个钱；
+### 方便：所有用到 OpenAI API 的地方都可以无缝替代；
+### 快速：我会持续优化中转服务的线路速度，来保证使用体验；
+### 省心：没有包月，没有会员，没有限时，用多少买多少，不用担心过期。
+
+## 支持AI模型有:
+#### 1、gpt-4
+#### 2、gpt-4-0314
+#### 3、gpt-4-0613
+#### 4、gpt-4-32k
+#### 5、gpt-4-32k-0314
+#### 6、gpt-4-32k-0613
+#### 7、gpt-3.5-turbo
+#### 8、gpt-3.5-turbo-0301
+#### 9、gpt-3.5-turbo-0613
+#### 10、gpt-3.5-turbo-16k
+#### 11、gpt-3.5-turbo-16k-0613
+#### 12、text-embedding-ada-002 等所有3.5模型
+#### 13、支持DALL-E图片生成
+#### 14、claude-2-100k
+#### 15、claude-instant
+
+## APIKEY 相关地址
+
+### 1、同时支持3.5/4.0：<a href="https://oneapi.huinong.co"  target="_blank">https://oneapi.huinong.co</a>
+### 2、只支持3.5：<a href="https://35api.huinong.co"  target="_blank">https://35api.huinong.co</a>
+### 3、购买余额和其它GPT服务地址：<a href="https://fk.huinong.co"  target="_blank">https://fk.huinong.co</a>
+### 4、301 回家地址：<a href="https://home.huinong.co"  target="_blank">https://home.huinong.co</a>
+
+## 稳定运行三个月，调用次数超500万次
+
+### 你也可以加入WeChat群组进行沟通
+![image](https://github.com/FarmerChina/Free_ChatGPT_APIKEY/blob/main/img/wechat_group.jpg?raw=true)
+
+### 如WeChat群组二维码失效可添加客服WeChat 拉入
+![image](https://github.com/FarmerChina/Free_ChatGPT_APIKEY/blob/main/img/wechat.jpg?raw=true)
+
+## 当然也可以通过以下方式联系我们：
+#### 1、邮箱：ngt@huinong.co
+#### 2、微信：ningjinming1956 
+#### 3、Telegram：<a href="https://t.me/gptechai" target="_blank">https://t.me/gptechai</a>
+#### 4、Telegram Group: <a href="https://t.me/gptechai_china" target="_blank">https://t.me/gptechai_china</a>
+#### 5、<a href="https://wp.huinong.co/index.php/abut_me/" target="_blank">https://wp.huinong.co/index.php/abut_me/</a>二维码
+
+### 如果您有任何问题或需要进一步的帮助，请随时联系我们。
+
+
 # 代注册OpenAI ChatGPT
 
 ### 最强人工智能 OpenAI ChatGPT 注册 ### 
@@ -214,3 +264,35 @@ SSL证书安装	自己提供ssl证书 40元/次 (带证书申请安装60元/次)
 
 
 
+                        _oo0oo_
+                       o8888888o
+                       88" . "88
+                       (| -_- |)
+                       0\  =  /0
+                     ___/`---'\___
+                   .' \\|     |// '.
+                  / \\|||  :  |||// \
+                 / _||||| -:- |||||- \
+                |   | \\\  - /// |   |
+                | \_|  ''\---/''  |_/ |
+                \  .-\__  '-'  ___/-. /
+              ___'. .'  /--.--\  `. .'___
+           ."" '《  `.___\_《|》_/___.' >' "".
+          | | :  `- \`.;`\ _ /`;.`/ - ` : | |
+          \  \ `_.   \_ __\ /__ _/   .-` /  /
+      =====`-.____`.___ \_____/___.-`___.-'=====
+                        `=---='
+ 
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+        佛祖保佑       永不宕机     永无BUG
+
+        佛曰:  
+            写字楼里写字间，写字间里程序员；  
+            程序人员写程序，又拿程序换酒钱。  
+            酒醒只在网上坐，酒醉还来网下眠；  
+            酒醉酒醒日复日，网上网下年复年。  
+            但愿老死电脑间，不愿鞠躬老板前；  
+            奔驰宝马贵者趣，公交自行程序员。  
+            别人笑我忒疯癫，我笑自己命太贱；  
+            不见满街漂亮妹，哪个归得程序员？
