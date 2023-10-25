@@ -1,10 +1,56 @@
+# Free_ChatGPT_APIKEY
+### Free_ChatGPT_APIKEY Supper  ChatGPT3.5/4.0 免费ChatGPT APIKEY 中转 支持ChatGPT3.5和4.0
+
+### 稳定：此中转服务用于维持开源软件的正常更新和维护，我应该不会轻易跑路，毕竟这玩意儿也赚不了几个钱；
+### 方便：所有用到 OpenAI API 的地方都可以无缝替代；
+### 快速：我会持续优化中转服务的线路速度，来保证使用体验；
+### 省心：没有包月，没有会员，没有限时，用多少买多少，不用担心过期。
+
+## 支持AI模型有:
+#### 1、gpt-4
+#### 2、gpt-4-0314
+#### 3、gpt-4-0613
+#### 4、gpt-4-32k
+#### 5、gpt-4-32k-0314
+#### 6、gpt-4-32k-0613
+#### 7、gpt-3.5-turbo
+#### 8、gpt-3.5-turbo-0301
+#### 9、gpt-3.5-turbo-0613
+#### 10、gpt-3.5-turbo-16k
+#### 11、gpt-3.5-turbo-16k-0613
+#### 12、text-embedding-ada-002 等所有3.5模型
+#### 13、支持DALL-E图片生成
+#### 14、claude-2-100k
+#### 15、claude-instant
+
+## APIKEY 相关地址
+
+### 1、同时支持3.5/4.0：<a href="https://oneapi.huinong.co"  target="_blank">https://oneapi.huinong.co</a>
+### 2、只支持3.5：<a href="https://35api.huinong.co"  target="_blank">https://35api.huinong.co</a>
+### 3、购买余额和其它GPT服务地址：<a href="https://fk.huinong.co"  target="_blank">https://fk.huinong.co</a>
+### 4、301 回家地址：<a href="https://home.huinong.co"  target="_blank">https://home.huinong.co</a>
+
+## 稳定运行三个月，调用次数超500万次
+
+### 你也可以加入WeChat群组进行沟通
+![image](https://github.com/FarmerChina/Free_ChatGPT_APIKEY/blob/main/img/wechat_group.jpg?raw=true)
+
+### 如WeChat群组二维码失效可添加客服WeChat 拉入
+![image](https://github.com/FarmerChina/Free_ChatGPT_APIKEY/blob/main/img/wechat.jpg?raw=true)
+
+## 当然也可以通过以下方式联系我们：
+#### 1、邮箱：ngt@huinong.co
+#### 2、微信：ningjinming1956 
+#### 3、Telegram：<a href="https://t.me/gptechai" target="_blank">https://t.me/gptechai</a>
+#### 4、Telegram Group: <a href="https://t.me/gptechai_china" target="_blank">https://t.me/gptechai_china</a>
+#### 5、<a href="https://wp.huinong.co/index.php/abut_me/" target="_blank">https://wp.huinong.co/index.php/abut_me/</a>二维码
+
+### 如果您有任何问题或需要进一步的帮助，请随时联系我们。
+
+
 # 代注册OpenAI ChatGPT
 
-### 最强人工智能 OpenAI ChatGPT 注册 ###
-ChatGPT 代注册
-功能强大完全可以自己体验
-注册属于自己的专属账号！
-只需提供个人邮箱。
+### 最强人工智能 OpenAI ChatGPT 注册 ### 
 
 网易以及163邮箱都不支持使用，建议大家选择hotmail.com 或 Outlook.com 或 Gmail.com 邮箱等国际通用邮箱注册；
 
@@ -172,3 +218,81 @@ SSL证书安装	自己提供ssl证书 40元/次 (带证书申请安装60元/次)
 ### 「下单后一定要备注微信号 或者 主动添加 客服微信」 ###
 
 <img src="https://github.com/FarmerChina/register_chatgpt/blob/main/img/wechat.jpg?raw=true" width="250px" height="250px">
+
+
+
+# -ChatGPT-Plus-ChatGPT  共享使用ChatGPT Plus账号 稳定主打性价比  手工注册ChatGPT 帮忙注册ChatGPT 独享账号
+
+# 组队使用 Apple One 上车 Apple TV 美区 台区 印区 日区 凭车票上车 下单阅读详情
+<a href="https://wp.huinong.co/index.php/product/share-apple-one/">点击进入了解</a>
+
+
+# 组队使用 Spotify 上车 全球最大曲库 组队使用 最高等级账户 印度区 下单前阅读详情
+<a href="https://wp.huinong.co/index.php/product/spotify/">点击进入了解</a>
+
+
+# 组队使用 Netflix 奈飞 网飞 全球解锁 4K高清 上车 月季年付 凭车票搞起 下单阅读详情
+<a href="https://wp.huinong.co/index.php/product/netflix-share/">点击进入了解</a>
+
+
+# 代注册 OpenAI ChatGPT 独享账号 纯手工单 可修改密码 谷歌授权登录号 普通直登号 含120刀直登号
+<a href="https://wp.huinong.co/index.php/product/openai-chatgpt-gm/">点击进入了解</a>
+
+
+# 帮忙开发软件 网站 App 微信公众号 小程序 等技术研发 电商 短视频 AIot 智能AI 面向全国客户的软件和 IT 解决方案服务
+<a href="https://wp.huinong.co/index.php/product/dev-app-html/">点击进入了解</a>
+
+
+# 代搭建全球任意国家独立服务器VPS节点 专享定制(680/年起) 自己独立使用节点 IP干净
+<a href="https://wp.huinong.co/index.php/product/vps-vpn/">点击进入了解</a>
+
+
+# ChatGPT-4 Plus 成品号 独享账号 个人独享 可改密码 已充值一个月会员 可直接使用
+<a href="https://wp.huinong.co/index.php/product/chatgpt-4-plus-1us/">点击进入了解</a>
+
+
+# 手工代充 ChatGPT-4 Plus代充服务 提供现有的ChatGPT账号充值到您自己的账号当中
+<a href="https://wp.huinong.co/index.php/product/chatgpt-4-plus-cz/">点击进入了解</a>
+
+
+# Youtube 年付会员 必备订阅用了之后回不去看视频无广告支持后台播放 真的好用
+<a href="https://wp.huinong.co/index.php/product/youtube-vip/">点击进入了解</a>
+
+# 组队使用 ChatGPT Plus 不需要你再充值 买车票直接上车使用 账号均海外人工注册 放心使用 主打性价比 购买请先阅读详情
+<a href="https://wp.huinong.co/index.php/product/chatgpt-plus/">点击进入了解</a>
+
+
+
+
+                        _oo0oo_
+                       o8888888o
+                       88" . "88
+                       (| -_- |)
+                       0\  =  /0
+                     ___/`---'\___
+                   .' \\|     |// '.
+                  / \\|||  :  |||// \
+                 / _||||| -:- |||||- \
+                |   | \\\  - /// |   |
+                | \_|  ''\---/''  |_/ |
+                \  .-\__  '-'  ___/-. /
+              ___'. .'  /--.--\  `. .'___
+           ."" '《  `.___\_《|》_/___.' >' "".
+          | | :  `- \`.;`\ _ /`;.`/ - ` : | |
+          \  \ `_.   \_ __\ /__ _/   .-` /  /
+      =====`-.____`.___ \_____/___.-`___.-'=====
+                        `=---='
+ 
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+        佛祖保佑       永不宕机     永无BUG
+
+        佛曰:  
+            写字楼里写字间，写字间里程序员；  
+            程序人员写程序，又拿程序换酒钱。  
+            酒醒只在网上坐，酒醉还来网下眠；  
+            酒醉酒醒日复日，网上网下年复年。  
+            但愿老死电脑间，不愿鞠躬老板前；  
+            奔驰宝马贵者趣，公交自行程序员。  
+            别人笑我忒疯癫，我笑自己命太贱；  
+            不见满街漂亮妹，哪个归得程序员？
