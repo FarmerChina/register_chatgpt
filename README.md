@@ -33,7 +33,7 @@
 ## 稳定运行三个月，调用次数超500万次
 
 ### 你也可以加入WeChat群组进行沟通
-![image](https://github.com/FarmerChina/Free_ChatGPT_APIKEY/blob/main/img/wechat_group.jpg?raw=true)
+![image](https://github.com/FarmerChina/Free_ChatGPT_APIKEY/blob/main/img/wechat_group_11.jpg?raw=true)
 
 ### 如WeChat群组二维码失效可添加客服WeChat 拉入
 ![image](https://github.com/FarmerChina/Free_ChatGPT_APIKEY/blob/main/img/wechat.jpg?raw=true)
