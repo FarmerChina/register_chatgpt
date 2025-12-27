@@ -25,16 +25,12 @@
 
 ## APIKEY 相关地址
 
-### 1、同时支持3.5/4.0：<a href="https://oneapi.huinong.co"  target="_blank">https://oneapi.huinong.co</a>
-### 2、只支持3.5：<a href="https://35api.huinong.co"  target="_blank">https://35api.huinong.co</a>
-### 3、购买余额和其它GPT服务地址：<a href="https://fk.huinong.co"  target="_blank">https://fk.huinong.co</a>
-### 4、301 回家地址：<a href="https://home.huinong.co"  target="_blank">https://home.huinong.co</a>
+### 1、同时支持3.5/4.0：<a href="https://api.tpz.pub"  target="_blank">https://api.tpz.pub</a>
+### 2、只支持3.5：<a href="https://35api.tpz.pub"  target="_blank">https://35api.tpz.pub</a> 
+### 4、301 回家地址：<a href="https://home.tpz.pub"  target="_blank">https://tpz.pub</a>
 
 ## 稳定运行三个月，调用次数超500万次
-
-### 你也可以加入WeChat群组进行沟通
-![image](https://github.com/FarmerChina/Free_ChatGPT_APIKEY/blob/main/img/wechat_group_11.jpg?raw=true)
-
+ 
 ### 如WeChat群组二维码失效可添加客服WeChat 拉入
 ![image](https://github.com/FarmerChina/Free_ChatGPT_APIKEY/blob/main/img/wechat.jpg?raw=true)
 
@@ -46,10 +42,7 @@
 #### 5、<a href="https://wp.huinong.co/index.php/abut_me/" target="_blank">https://wp.huinong.co/index.php/abut_me/</a>二维码
 
 ### 如果您有任何问题或需要进一步的帮助，请随时联系我们。
-
-# 接收Open AI 和 ChatGPT注册验证码 但不仅限于这两个平台-任何需要接码的都可以用 
-<a href="https://wp.huinong.co/index.php/product/sms_code/">点击我了解咨询</a>
-
+ 
 在线短信验证码接码平台，在线接收中国、香港、美国、日本、澳大利亚、加拿大等128个国家短信验证码。 本站提供的号码仅用于注册一些不重要的网站账号或者APP账号，防止个人隐私被泄漏，杜绝被骚扰。
 
 通过我们接码平台，大家能够：
@@ -67,10 +60,6 @@
 需要创建第二个抖音、Instagram、WhatsApp、Telegram、淘宝、支付宝等账号的人；
 
  <img src="https://github.com/FarmerChina/register_chatgpt/blob/main/img/phone_message.jpg?raw=true" width="400px" height="800px">
-
-
-# 代搭建安装 V免签+彩虹易支付个人支付对接支付宝、微信 免签约 直接到个人账户安全【PHP版】
-<a href="https://wp.huinong.co/index.php/product/2023v_pay/">点击我了解咨询</a>
 
 最简单的接入个人支付方式，不需要去申请任何东西，签约任何东西，也不需要你任何资质和实名认证，搭建完成立马能用。且没有任何中间支付手续费，主要就是安全，马上及时到账。
 
@@ -105,8 +94,7 @@
 
 ### 版本二：v免签二开源码+手机PC挂机软件
 
-商品详情
-
+商品详情 
 v免签二开源码含SDK+挂机软件。
 修正了原版的一些问题，更稳定便捷对接支付。
  
@@ -122,9 +110,7 @@ v免签二开源码含SDK+挂机软件。
 带安装对接以上支付接口！
 您只需提供服务器信息、域名信息、收款二维码、usdt钱包地址即可！
 
-# 科学上网一站式解决服务方案
-<a href="https://wp.huinong.co/index.php/product/siavpn/">点我了解咨询</a>
-
+# 科学上网一站式解决服务方案 
 最近几年，随着“墙”的不断加高，“如何翻墙”和“如何科学上网”已经成为很多网民最关注的问题。本产品将主要为大家解决科学上网工具和翻墙方法。值得注意的是，由于防火长城不断的升级，导致一些之前能用的翻墙VPN突然就无法使用了，而另外一些翻墙VPN则经过优化调整之后又可以翻墙了。大家也可以放心购买我们这篇科学上网指导服务，我们也会一直不断提供解决方案服务。
 
 
@@ -136,8 +122,7 @@ v免签二开源码含SDK+挂机软件。
 
 翻墙，是指绕过相应的IP封锁、内容过滤、域名劫持、流量限制等，实现对网络内容的访问。
 
-# shadowrocket 小火箭 独享账号 安装 代充值 下载 购买 需要准备美区 iOS苹果账号AppleID
-<a href="https://wp.huinong.co/index.php/product/shadowrocket/">点我了解咨询</a>
+# shadowrocket 小火箭 独享账号 安装 代充值 下载 购买 需要准备美区 iOS苹果账号AppleID 
 苹果手机使用小火箭（Shadowrocket）下载使用详细教程
 
 打开iPhone/iPad的蓝色  AppStore  软件（需要美区AppleID不然搜索不到）
@@ -158,8 +143,7 @@ shadowrocket软件 首页
 注意：本产品价格只是提供充值并下载安装这个shadowrocket软件服务，代给AppleID充值，不包含购买充值AppleID的费用、不包含注册美区ID；如果需要注册美区ID请联系客服或另行注册或购买服务代注册。
 
 # 帮助搭建云服务器环境 Centos Linux Windows服务器 Java PHP IIS Nginx 等环境 安全维护 网站搬家等服务
-
-<a href="https://wp.huinong.co/index.php/product/help-centos-linux/">---点击我咨询下单 ---</a> 
+ 
 
 1、服务器环境配置
 
@@ -198,12 +182,7 @@ SSL证书安装	自己提供ssl证书 40元/次 (带证书申请安装60元/次)
 ### 「下单后一定要备注微信号 或者 主动添加 客服微信」 ###
 
 <img src="https://github.com/FarmerChina/register_chatgpt/blob/main/img/wechat.jpg?raw=true" width="250px" height="250px">
-
-
-# 帮忙开发软件 网站 App 微信公众号 小程序 等技术研发 电商 短视频 AIot 智能AI 面向全国客户的软件和 IT 解决方案服务
-<a href="https://wp.huinong.co/index.php/product/dev-app-html/">点击进入了解</a>
-
-
+ 
 ---
 
 ## 我们是一帮自由开发者
@@ -218,9 +197,9 @@ SSL证书安装	自己提供ssl证书 40元/次 (带证书申请安装60元/次)
 
 也有可能会有项目增加或者上面的项目没做了的，欢迎大家咨询了解讨论。当然也希望可以帮助到更多的人并能够得到大家的认可和支持！！！
 
-**GPT API KEY 中转服务：** [GPTech API](https://home.huinong.co)
+**GPT API KEY 中转服务：** [GPTech API](https://home.tpz.pub)
 
-**导航地址：** [https://home.huinong.co](https://home.huinong.co)
+**导航地址：** [https://home.huinong.co](https://home.tpz.pub)
 
 当然有任何问题通过以下方式联系我：
 
